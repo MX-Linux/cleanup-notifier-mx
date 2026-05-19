@@ -11,6 +11,11 @@ mesonbuild/
 *~
 
 # Distribution / packaging
+debian/.debhelper/
+debian/cleanup-notifier-mx.substvars
+debian/cleanup-notifier-mx/
+debian/debhelper-build-stamp
+debian/files
 .Python
 mesonbuild/
 build/
